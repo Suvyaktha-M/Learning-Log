@@ -9,7 +9,7 @@ Calculator
 
 Project -2:   
 Number Game
--- Python program written to improve understanding of loops and conditional statements.
+-- Python program written to improve understanding of loops and conditional statements.  
 -- Objective : To guess the number with in some predefined attempts.  
 
 Project -3:  
