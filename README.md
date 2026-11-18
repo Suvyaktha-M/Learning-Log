@@ -5,7 +5,9 @@ Welcome to my learning journey!
 This repository documents my progress in programming, computer science, and software development.  
 
 Project -1:  
-Calculator
+Calculator  
+-- To improve understanding of Conditional Statements.  
+-- Objective: 
 
 Project -2:   
 Number Game  
