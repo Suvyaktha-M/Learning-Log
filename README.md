@@ -7,7 +7,7 @@ This repository documents my progress in programming, computer science, and soft
 Project -1:  
 Calculator  
 -- To improve understanding of Conditional Statements.  
--- Objective: 
+-- Objective: To perform basic arithematic calculations.
 
 Project -2:   
 Number Game  
