@@ -16,6 +16,7 @@ Number Game
 
 Project -3:  
 Gender Classifcaton  
--- Trained a small ML Algorithm on small dataset  
+-- Trained a small classification ML Algorithm on small dataset.
+-- Objective: 
 
 Learn → Build → Experiment → Improve. 🚀
