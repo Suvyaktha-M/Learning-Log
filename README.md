@@ -15,6 +15,7 @@ Number Game
 -- Objective : To guess the number with in some predefined attempts.  
 
 Project -3:  
-Gender Classifcaton
+Gender Classifcaton  
+-- Trained a small ML Algorithm on small dataset  
 
 Learn → Build → Experiment → Improve. 🚀
