@@ -16,7 +16,8 @@ Number Game
 
 Project -3:  
 Gender Classifcaton  
--- Trained a small classification ML Algorithm on small dataset.
--- Objective: 
+-- Trained a small classification ML Algorithm on small dataset.  
+-- Objective: To classify geneder based on 3 paramaeters.
+-- Parameters: 
 
 Learn → Build → Experiment → Improve. 🚀
